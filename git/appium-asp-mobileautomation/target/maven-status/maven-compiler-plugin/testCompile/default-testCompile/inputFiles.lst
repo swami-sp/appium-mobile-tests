@@ -1,0 +1,16 @@
+/Users/spadmanabhan/git/appium-asp-mobileautomation/src/test/java/com/aspiration/core/Utility.java
+/Users/spadmanabhan/git/appium-asp-mobileautomation/src/test/java/com/aspiration/appium/tests/LoginTest.java
+/Users/spadmanabhan/git/appium-asp-mobileautomation/src/test/java/com/aspiration/appium/utilities/commonUtils.java
+/Users/spadmanabhan/git/appium-asp-mobileautomation/src/test/java/com/aspiration/appium/pages/AppCommonPage.java
+/Users/spadmanabhan/git/appium-asp-mobileautomation/src/test/java/com/aspiration/appium/pages/HomePage.java
+/Users/spadmanabhan/git/appium-asp-mobileautomation/src/test/java/com/aspiration/appium/pages/SignupPage.java
+/Users/spadmanabhan/git/appium-asp-mobileautomation/src/test/java/com/aspiration/appium/pages/MenuBarPage.java
+/Users/spadmanabhan/git/appium-asp-mobileautomation/src/test/java/com/aspiration/appium/pages/LoginPage.java
+/Users/spadmanabhan/git/appium-asp-mobileautomation/src/test/java/com/aspiration/appium/core/DeviceProvider.java
+/Users/spadmanabhan/git/appium-asp-mobileautomation/src/test/java/com/aspiration/appium/utilities/apiUtils.java
+/Users/spadmanabhan/git/appium-asp-mobileautomation/src/test/java/com/aspiration/appium/core/DeviceDriver.java
+/Users/spadmanabhan/git/appium-asp-mobileautomation/src/test/java/com/aspiration/appium/core/BasePage.java
+/Users/spadmanabhan/git/appium-asp-mobileautomation/src/test/java/com/aspiration/appium/utilities/dBUtils.java
+/Users/spadmanabhan/git/appium-asp-mobileautomation/src/test/java/com/aspiration/appium/core/Wait.java
+/Users/spadmanabhan/git/appium-asp-mobileautomation/src/test/java/com/aspiration/appium/utilities/ReadConfig.java
+/Users/spadmanabhan/git/appium-asp-mobileautomation/src/test/java/com/aspiration/appium/core/BaseTest.java

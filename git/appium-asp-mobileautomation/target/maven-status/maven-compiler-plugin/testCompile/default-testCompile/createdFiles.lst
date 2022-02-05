@@ -1,0 +1,16 @@
+com/aspiration/appium/pages/MenuBarPage.class
+com/aspiration/appium/core/Wait.class
+com/aspiration/appium/core/BasePage.class
+com/aspiration/appium/utilities/dBUtils.class
+com/aspiration/appium/pages/HomePage.class
+com/aspiration/appium/pages/SignupPage.class
+com/aspiration/appium/core/DeviceDriver.class
+com/aspiration/appium/pages/LoginPage.class
+com/aspiration/appium/utilities/apiUtils.class
+com/aspiration/appium/utilities/ReadConfig.class
+com/aspiration/core/Utility.class
+com/aspiration/appium/core/DeviceProvider.class
+com/aspiration/appium/pages/AppCommonPage.class
+com/aspiration/appium/tests/LoginTest.class
+com/aspiration/appium/core/BaseTest.class
+com/aspiration/appium/utilities/commonUtils.class
